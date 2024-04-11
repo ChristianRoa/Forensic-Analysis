@@ -1,1 +1,1 @@
-The file I specifically worked on was ForensicAnalysis.java which utilizes Binary search trees for various functions.
+For this assignment I utilized Binary Search Trees to analyze DNA data.
